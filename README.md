@@ -1,4 +1,4 @@
 # Aashika
  My Portfolio 
  Click here : 
-<a> https://maddineniaashika.netlify.app/ </a>
+<a> https://aashikamaddineni.netlify.app/ </a>
